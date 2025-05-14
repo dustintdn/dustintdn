@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there. I'm Dustin! 👋
+Data Scientist & QMSS master's student @columbia with an interest in people analytics and nlp. This is my playground for exploring new project ideas and experiments!
 <!--
 **dustintdn/dustintdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
