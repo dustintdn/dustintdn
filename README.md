@@ -1,17 +1,14 @@
-### Hi there. I'm Dustin! 👋
-Data Scientist in People Analytics & Quantitative Methods in the Social Sciences (QMSS) master's graduate @ Columbia. This is my playground for exploring new project ideas and experiments!
+# Hi, I'm Dustin 👋
 
-<!--
-**dustintdn/dustintdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist @ Aon | QMSS M.A., Columbia University
 
-Here are some ideas to get you started:
+Welcome to my playground for exploring new project ideas and experiments! I work at the intersection of **people analytics**, **applied ML**, and **causal inference** - using data to answer questions about human behavior at scale. Currently building tools that bring LLMs into real-world workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+| Project | Description |
+| --- | --- |
+| [ai-citation-audit](https://github.com/dustintdn/ai-citation-audit) | CLI tool measuring brand visibility across LLMs (ChatGPT, Claude, Perplexity) |
+| [llm-engagement-summarizer](https://github.com/dustintdn/llm-engagement-summarizer) | LLM-powered theme extraction from employee engagement surveys |
+| [ai-resolution-quality](https://github.com/dustintdn/ai-resolution-quality) | Causal inference (PSM + DiD) on AI-assisted customer support outcomes |
+| [ab-test-framework](https://github.com/dustintdn/ab-test-framework) | Reusable Python framework for A/B test analysis |
