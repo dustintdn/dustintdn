@@ -1,6 +1,6 @@
 # Hi, I'm Dustin 👋
 
-Data Scientist @ Aon | QMSS M.A., Columbia University
+Data Scientist @ Aon | Quantitative Methods in the Social Sciences M.A., Columbia University
 
 Welcome to my playground for exploring new project ideas and experiments! I work at the intersection of **people analytics**, **applied ML**, and **causal inference** - using data to answer questions about human behavior at scale. Currently building tools that bring LLMs into real-world workflows.
 
