@@ -9,7 +9,7 @@ Welcome to my playground for exploring new project ideas and experiments! I prim
 | Project | Description |
 | --- | --- |
 | [ai-citation-audit](https://github.com/dustintdn/ai-citation-audit) | CLI tool measuring brand visibility across LLM-powered apps (ChatGPT, Claude, Perplexity) |
-| [churn-nba](https://github.com/dustintdn/churn-nba) | Small & medium-sized business (SMB) churn prediction (XGBoost) + retention next-best-action|
+| [churn-nba](https://github.com/dustintdn/churn-nba) | Small & medium-sized business (SMB) churn prediction (XGBoost, SHAP) + next-best-action for customer retention |
 | [geo-incrementality-experiment](https://github.com/dustintdn/geo-incrementality-experiment) | Causal geo-experiment measuring incremental lift (CausalImpact) |
 | [mmm-budget-optimization](https://github.com/dustintdn/mmm-budget-optimization) | Marketing Mix Model (MMM) to optimize budget allocation for paid media |
 | [llm-engagement-summarizer](https://github.com/dustintdn/llm-engagement-summarizer) | LLM-powered theme extraction from employee engagement surveys |
